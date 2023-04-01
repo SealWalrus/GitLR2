@@ -8,7 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "GitAdded Succes!\n";
     std::cout << "__________________\n";
-
+    std::cout << "   END IS NEAR   \n";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
