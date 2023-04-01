@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "GitAdded Succes!\n";
+    std::cout << "__________________\n";
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
